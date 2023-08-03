@@ -1,0 +1,7 @@
+data/
+__pycache__/
+lightning_logs/
+checkpoint/
+nohup.out
+
+hf_model/
